@@ -1,0 +1,2 @@
+rootProject.name='GulfTech _ Android Task'
+include ':app'
